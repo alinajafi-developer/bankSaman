@@ -1,16 +1,16 @@
-# Bank Saman
+# Grid Gallery & Transition
 
-**Bank Saman's Website**
+**Grid Gallery**
 
-![bankSaman](https://github.com/alinajafiweb/bankSaman/assets/147813870/406f6681-cbdb-4f91-be2b-4bedfb339e27)
+![gridGallery](https://github.com/alinajafiweb/gridGallery/assets/147813870/1a6f4038-2cf6-4edd-8111-a6c1a6626151)
 
 
 
-- [Demo Project](https://alinajafiweb.github.io/bankSaman/)
+- [Demo Project](https://alinajafiweb.github.io/gridGallery/)
 
 - Developed by Ali Najafi
 
-- Created - 2023-10-20
+- Created - 2023-10-23
 
 - Technologies Used - Html5 , css3
 
